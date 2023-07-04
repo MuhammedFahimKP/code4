@@ -1,0 +1,28 @@
+.services-cntr{
+    
+    background-color: #f1f1f1;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    padding:50px 300px 50px;
+    column-gap: 20px;
+    row-gap: 30PX;
+}.services-image{
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+    padding: 20px;
+    border-radius: 30px;
+
+
+
+    
+}.serve-img{
+    width: 100px;
+    height: 100px;
+}.s-font{
+    /* background-color: blue; */
+    font-size: 20px;
+    font-weight:bold;
+}
